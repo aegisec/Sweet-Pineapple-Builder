@@ -76,24 +76,24 @@ Don't worry, you can find in the `Releases` section all the pre-compiled images!
 [https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/tag/v1.0.1](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/tag/v1.0.1)
 
 
-Device      | Image         |
+Device      | Firmware Image         |
 -------------|-------------| 
-WZR450HP2 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-450hp2-tetra-sysupgrade.bin |
-WZR600DHP | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-600dhp-tetra-sysupgrade.bin|
-WZRHPAG300H | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-ag300h-tetra-sysupgrade.bin|
-WZRHPG300NH | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh-tetra-sysupgrade.bin|
-WZRHPG300NH2 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh2-tetra-sysupgrade.bin|
-WZRHPG450H | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g450h-tetra-sysupgrade.bin|
-DGL5500A1 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dgl-5500-a1-tetra-sysupgrade.bin|
-DIR835A1 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-835-a1-tetra-sysupgrade.bin|
-dir-869-a1 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-869-a1-tetra-sysupgrade.bin|
-gl-ar300 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300-tetra-sysupgrade.bin|
-gl-ar300m | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300m-tetra-sysupgrade.bin|
-gl-ar750 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750-tetra-sysupgrade.bin|
-gl-ar750s | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750s-tetra-sysupgrade.bin|
-archer-c7-v2 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v2-tetra-sysupgrade.bin|
-archer-c7-v4 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v4-tetra-sysupgrade.bin |
-archer-c7-v5 | https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v5-tetra-sysupgrade.bin|
+WZR450HP2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-450hp2-tetra-sysupgrade.bin) |
+WZR600DHP | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-600dhp-tetra-sysupgrade.bin)|
+WZRHPAG300H | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-ag300h-tetra-sysupgrade.bin)|
+WZRHPG300NH | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh-tetra-sysupgrade.bin)|
+WZRHPG300NH2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh2-tetra-sysupgrade.bin)|
+WZRHPG450H | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g450h-tetra-sysupgrade.bin)|
+DGL5500A1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dgl-5500-a1-tetra-sysupgrade.bin)|
+DIR835A1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-835-a1-tetra-sysupgrade.bin)|
+dir-869-a1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-869-a1-tetra-sysupgrade.bin)|
+gl-ar300 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300-tetra-sysupgrade.bin)|
+gl-ar300m | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300m-tetra-sysupgrade.bin)|
+gl-ar750 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750-tetra-sysupgrade.bin)|
+gl-ar750s | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750s-tetra-sysupgrade.bin)|
+archer-c7-v2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v2-tetra-sysupgrade.bin)|
+archer-c7-v4 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v4-tetra-sysupgrade.bin) |
+archer-c7-v5 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v5-tetra-sysupgrade.bin)|
 <br>
 
 
